@@ -8,6 +8,8 @@
 
 [resources](http://www.zacharyshifrel.com/zacharyshifrel/)
 
+[code sandbox](https://codesandbox.io/u/zachary.shifrel)
+
 - 🔭 I’m currently working on learning javascript and react native, and also on some simple [algorithms in javascript](https://replit.com/repls/folder/algs).
 - 🌱 I’m currently learning ... Julia, SQL, C++, statistical learning theory, automated scientific discovery. 
 - 📜 ASU/Virginia Tech
