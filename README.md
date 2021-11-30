@@ -1,6 +1,8 @@
 ### Zachary Shifrel
 
-[site](https://isearch.asu.edu/profile/3481140)
+[site](https://zacharyshifrel.vercel.app/)
+
+[academic site](https://isearch.asu.edu/profile/3481140)
 
 [playing around with replit](https://repl.it/@ZacharyShifrel)
 
