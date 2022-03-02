@@ -8,12 +8,11 @@
 
 [bouldering](https://www.instagram.com/zachshifrel/)
 
-[resources](http://www.zacharyshifrel.com/zacharyshifrel/)
-
 [code sandbox](https://codesandbox.io/u/zachary.shifrel)
 
+- 📝 My main side projects now are Grade Guesser (a social media app for climbers where one guesses the difficulty of a boulder) and an idle game.
 - 🔭 I’m currently working on learning javascript and react native, and also on some simple [algorithms in javascript](https://replit.com/repls/folder/algs).
-- 🌱 I’m currently learning ... Julia, SQL, C++, statistical learning theory, automated scientific discovery. 
-- 📜 ASU/Virginia Tech
+- 🔬 I’m currently learning ... Julia, SQL, C++, statistical learning theory, automated scientific discovery. 
+- 📜 ASU/Virginia Tech/UCF
 
 
