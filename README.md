@@ -2,6 +2,8 @@
 
 Hi, I'm a philosopher of physics turned software engineer. Here are some links: 
 
+[resume](https://www.overleaf.com/read/pvdvvkddfcxc)
+
 [wakatime](https://wakatime.com/@a12ba76a-10c1-42b3-aafb-0619ed0dd2c7)
 
 [playing around with replit](https://repl.it/@ZacharyShifrel)
