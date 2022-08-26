@@ -17,8 +17,6 @@ Hi, I'm a philosopher of physics turned software engineer.
 
 [wakatime](https://wakatime.com/@a12ba76a-10c1-42b3-aafb-0619ed0dd2c7)
 
-[playing around with replit](https://repl.it/@ZacharyShifrel)
-
 [bouldering](https://www.instagram.com/zachshifrel/)
 
 [masters thesis](https://vtechworks.lib.vt.edu/handle/10919/102340) (sadly it seems to have received the lorem ipsum treatment recently)
