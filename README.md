@@ -8,6 +8,7 @@ Hi, I'm a philosopher of physics turned software engineer.
 - Frameworks: React and React Native, Angular, 
 - Databases: MongoDB, MySQL, PosgreSQL
 - Tools: Git, Node js, Express, Mongoose, NPM
+- Styling: CSS Modules, Bootstrap, Material UI
 
 **Some links:**
 
