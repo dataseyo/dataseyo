@@ -11,6 +11,8 @@ Hi, I'm a philosopher of physics turned software engineer.
 - Styling: CSS Modules, Bootstrap, Material UI
 - Cloud: Azure
 
+---
+
 **Some links:**
 
 [wakatime](https://wakatime.com/@a12ba76a-10c1-42b3-aafb-0619ed0dd2c7)
@@ -22,6 +24,8 @@ Hi, I'm a philosopher of physics turned software engineer.
 [masters thesis](https://vtechworks.lib.vt.edu/handle/10919/102340) (sadly it seems to have received the lorem ipsum treatment recently)
 
 Some Conferences: [PSA 1](https://psa2020.philsci.org/program-schedule/sponsor-lounge/program/54/concepts-as-epistemic-tools-a-comparative-approach) and [PSA 2](https://psa2018.philsci.org/component/dryfta/abstract/public/430/110-biological-structures)
+
+---
 
 **What I'm working on:**
 
