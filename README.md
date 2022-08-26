@@ -9,6 +9,7 @@ Hi, I'm a philosopher of physics turned software engineer.
 - Databases: MongoDB, MySQL, PosgreSQL
 - Tools: Git, Node js, Express, Mongoose, NPM
 - Styling: CSS Modules, Bootstrap, Material UI
+- Cloud: Azure
 
 **Some links:**
 
