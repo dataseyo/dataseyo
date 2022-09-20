@@ -27,8 +27,8 @@ Some Conferences: [PSA 1](https://psa2020.philsci.org/program-schedule/sponsor-l
 
 **What I'm working on:**
 
-- 🔭 I’m currently refining my knowledge of React using the MERN stack and the MVC design pattern. By building a variety of applications equipped with all of the CRUD operations, I'm learning how to best engineer data-intensive projects while exploring unit/integration testing, mobile first design practices, libraries like React query, Material UI, React router, and React spring, and also other best practices like custom hooks for fetching data, code splitting for larger applications, and error handling. I'm also picking up typescript and recently returned to React Native to build mobile applications. 
-- 📝 My main side projects now are Grade Guesser (a social media app for climbers where one guesses the difficulty of a boulder), an idle game, and a few websites with authorization and a mongodb/mongoose/express backend.
+- 🔭 I’m currently refining my knowledge of React using the MERN stack and the MVC design pattern, along with Typescript for type checking, Jest for testing, and Redux Toolkit for state management. I'm also using python to both create test data and interface with databases like MongoDB.
+- 📝 My main side projects now are Homewall and an idle game.
 - 🔬 I’m currently studying ... statistical learning theory, automated scientific discovery, and the renormalization of effective quantum field theories. 
 - 📜 ASU/Virginia Tech/UCF
 
