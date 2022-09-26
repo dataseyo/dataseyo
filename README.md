@@ -9,7 +9,7 @@ Hi, I'm a philosopher of physics turned software engineer.
 - Databases: MongoDB, MySQL, PosgreSQL
 - Tools: Git, Node js, Express, Mongoose, NPM
 - Styling: CSS Modules, Bootstrap, Material UI
-- Cloud: AWS
+- Cloud: AWS, (a little) Azure
 - Containers: Docker and Kubernetes for orchestration
 - Event Streaming: Kafka
 
