@@ -6,7 +6,7 @@ Hi, I'm a philosopher of physics turned software engineer.
 
 - Languages: Python, HTML/CSS/JS, Typescript, SQL
 - Frameworks: React and React Native, Angular
-- Databases: MongoDB, MySQL, PosgreSQL
+- Databases: MongoDB, MySQL
 - Tools: Git, Node js, Express, Mongoose, NPM
 - Styling: CSS Modules, Bootstrap, Material UI
 - Cloud: AWS, (a little) Azure
