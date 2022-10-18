@@ -12,7 +12,7 @@ Hi, I'm a philosopher of physics turned software engineer.
 - Cloud: AWS, (a little) Azure
 - Containers: Docker and Kubernetes for orchestration
 - Event Streaming: Kafka
-- 3D: three.js, React Three Fiber/Drei/Canon
+- 3D: three.js, React Three Fiber/Drei/Canon, Spline
 
 ---
 
