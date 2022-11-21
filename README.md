@@ -4,7 +4,7 @@ Hi, I'm a philosopher of physics turned software engineer.
 
 **Technologies I work with:**
 
-- Languages: Python, HTML/CSS/JS, Typescript, SQL
+- Languages: Python, HTML/CSS/JS, Typescript
 - Frameworks: React and React Native, Angular
 - Databases: MongoDB, MySQL
 - Tools: Git, Node js, Express, Mongoose, NPM
