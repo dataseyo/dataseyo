@@ -18,6 +18,8 @@ Hi, I'm a philosopher of physics turned software engineer.
 
 **Some links:**
 
+[my code walkthroughs](https://gist.github.com/dataseyo)
+
 [wakatime](https://wakatime.com/@a12ba76a-10c1-42b3-aafb-0619ed0dd2c7)
 
 [bouldering](https://www.instagram.com/zachshifrel/)
