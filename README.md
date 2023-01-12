@@ -28,6 +28,8 @@ Hi, I'm a philosopher of physics turned software engineer.
 
 Some Conferences: [PSA 1](https://psa2020.philsci.org/program-schedule/sponsor-lounge/program/54/concepts-as-epistemic-tools-a-comparative-approach) and [PSA 2](https://psa2018.philsci.org/component/dryfta/abstract/public/430/110-biological-structures)
 
+[LinkedIn](https://www.linkedin.com/in/zachary-shifrel/)
+
 ---
 
 **What I'm working on:**
