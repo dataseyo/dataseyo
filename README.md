@@ -4,7 +4,7 @@ Hi, I'm a philosopher of physics turned software engineer.
 
 **Technologies I work with:**
 
-- Languages: Python, HTML/CSS/JS, Typescript
+- Languages: Python, HTML/CSS/JS, Typescript, GLSL
 - Frameworks: React and React Native, Angular
 - Databases: MongoDB, MySQL
 - Tools: Git, Node js, Express, Mongoose, NPM
@@ -34,9 +34,8 @@ Some Conferences: [PSA 1](https://psa2020.philsci.org/program-schedule/sponsor-l
 
 **What I'm working on:**
 
-- 🔭 refining my knowledge of React using the MERN stack and the MVC design pattern, along with Typescript for type checking, Jest for testing, and Redux Toolkit for state management. I'm also using python to both create test data and interface with databases like MongoDB.
-- 📝 My main side projects are Homewall, an idle game, and an ETL pipeline to work with Kafka.
-- 💻 I'm currently learning ... Kubernetes, Kafka, React Three Fiber (and its companion libraries), some of the Azure cloud computing architecture, and higher level design/component/services patterns in React and Node.js.
-- 🔬 I’m currently studying ... statistical learning theory, automated scientific discovery, and the renormalization of effective quantum field theories. 
+- 🔭 I'm currently excited about building interactive web and app experiences that are both computationally affordable and responsive, using React three fiber, three js, GLSL, and Blender. 
+- 💻 On the software side, I'm studying everything that has to do with the above, as well as the technologies I use at work and in my passion projects ranging from Kubernetes, Kafka, and Docker to Redux Toolkit, Django, Tensorflow, and so on. 
+- 🔬 Outside of software, I'm still learning more about the renormalization of effective quantum field theories and how to use renormalization for fields besides physics, climate physics, statistical learning and automated scientific discovery, and even the finger tendon recovery and hypertrophy literature!
 - 📜 ASU/Virginia Tech/UCF
 
