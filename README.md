@@ -1,6 +1,6 @@
 ### Zachary Shifrel
 
-Hi, I'm a philosopher of physics turned software engineer. I'm currently a Software Engineer at Lockheed.
+Hi, I'm a philosopher of physics turned software engineer. I'm currently a Software Engineer at Lockheed working primarily with React, Python, and C++.
 
 **Technologies I work with:**
 
