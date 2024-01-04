@@ -2,6 +2,8 @@
 
 Hi, I'm a philosopher of physics turned software engineer. I'm currently a Software Engineer at Lockheed working primarily with React, Python, and C++.
 
+I also do physics communication, and am currently working on a introductory statistical mechanics series--using python libraries like manim and matplotlib for animations and simulation. 
+
 **Technologies I work with:**
 
 - Languages: Python, HTML/CSS/JS, Typescript, GLSL, C++
