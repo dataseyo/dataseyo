@@ -4,7 +4,7 @@ Hi, I'm a philosopher of physics turned software engineer. I'm currently a Softw
 
 I also do physics communication, and am currently working on a introductory statistical mechanics series—using python libraries like manim and matplotlib for animations and simulation. 
 
-copy_5EBCB1A5-E707-4289-BC7F-0A0F2CE3DCC9.mov
+https://github.com/dataseyo/dataseyo/assets/70245212/a3814011-38e2-40c4-841d-5564e02307df
 
 **Technologies I work with:**
 
